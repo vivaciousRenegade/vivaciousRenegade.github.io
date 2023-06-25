@@ -1,0 +1,19 @@
+body {
+   background-image:url(../img/bg03.jpg);
+   background-repeat: repeat;
+
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+   margin-inline: 64px;
+}
+body * {
+   width: 100%;
+}
+nav {
+   margin-block:8px;
+}
+nav a {
+   margin-inline: 4px;
+}
